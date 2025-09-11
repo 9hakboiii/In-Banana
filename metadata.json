@@ -1,0 +1,5 @@
+{
+  "name": "In Banana",
+  "description": "An AI-powered photo editor that allows users to composite a main photo with various element images using Google's 'Nano Banana' model, and easily share the results.",
+  "requestFramePermissions": []
+}
